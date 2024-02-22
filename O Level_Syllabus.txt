@@ -1,0 +1,43 @@
+2.5.6. Detailed Syllabus
+(i) Object Oriented Concepts
+Object Oriented Programming- a new paradigm, Abstraction, forms of Abstraction,
+OOP concepts- Classes, Objects, Polymorphism, Data Encapsulation, Data Hiding,
+Inheritance,
+
+(ii) Basics of C++, Classes and Objects
+Features of C++, Tokens, keywords, Data types, Operators, Manipulators, Console
+input, output, Control statements (conditional and loops), Functions, Classes,
+Instantiation, Destructor, constructor, Polymorphism - Operator Overloading,
+Function Overloading, Inheritance-Single, Multiple, Multilevel, Pointers
+
+
+(iii) Analysis of Algorithm
+Introduction to algorithm design and Data structures, Comparison of Algorithms,
+Complexity in terms of space and time, Calculation of O- notation. Abstract Data
+type and its implementation with a Rational number example
+
+(iv) Searching and Sorting
+Searching- Linear and Binary Search, Sorting- Bubble Sort, Selection Sort, Insertion
+Sort, Quick Sort, Merge Sort, Comparison of various searching and sorting
+techniques in terms of time complexity
+
+(v) Elementary Data Structures: Arrays, Linked Lists
+Representation of arrays-single and multidimensional, Address calculation using
+row major ordering, Various operations on arrays, Linked Lists-Singly Linked List,
+Double linked List, Circular Linked List- traversing, deleting, inserting, searching,
+counting, reversing, printing of nodes.
+
+(vi) Stacks and Queues
+Stack ADT, Implementation of stack using array and linked list, Application of
+Stack- Evaluation of postfix/prefix expression, Queue ADT, Implementation of
+queue using Array and Linked List
+
+(vii) Trees
+Definition and notations, Binary Search Trees Implementation. Traversals using
+stacks and recursion - In-order, post-order, pre-order techniques, Threaded binary
+tree, B-trees with implementation of 2-3 trees.
+
+(viii) Graphs
+Definition and notations, Components of Graphs, Types of Graphs, Graph
+Implementation using Adjacency Matrix and Adjacency List algorithms and
+programs, Graph Traversal Methods: Depth First Search and Breadth First Search.
