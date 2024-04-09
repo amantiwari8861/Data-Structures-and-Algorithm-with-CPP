@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1358397808 source:d:\projects\chapter 6 final exercises\c++\exercise6.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1359093317 source:d:\ds and algo\bhavna\c++\exercise6.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+

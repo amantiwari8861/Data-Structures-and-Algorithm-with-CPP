@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1354679530 source:d:\projects\c++\implementing_singly_linked_lists\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+

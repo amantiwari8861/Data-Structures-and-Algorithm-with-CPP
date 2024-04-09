@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1352107559 source:d:\projects\c++\exercise3.1\main.cpp
+	<iostream>
+	<cstring>
+

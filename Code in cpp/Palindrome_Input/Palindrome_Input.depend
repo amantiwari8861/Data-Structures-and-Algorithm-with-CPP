@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1358493928 source:d:\ds and algo\sme_reviewed_lg\exercise6 input c++\palindrome_input\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+

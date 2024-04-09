@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359106711 source:f:\projects in progress\data structures and algorithms\reviews\lg\lg 4\round 7\exercise4.4\exercise4.4\c++\c++\exercise4.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
