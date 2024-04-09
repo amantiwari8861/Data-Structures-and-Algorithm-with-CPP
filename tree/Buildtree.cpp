@@ -3,22 +3,12 @@
 #include <windows.h>
 #include <sstream>
 #include <vector>
-#include <iostream>
-#include <conio.h>
-#include <windows.h>
-#include <sstream>
-#include <vector>
 using namespace std;
 
-template <typename T>
 template <typename T>
 class Node
 {
     T data;
-public:
-    Node *left;
-    Node *right;
-    Node() {}
 public:
     Node *left;
     Node *right;
@@ -38,7 +28,6 @@ public:
         this->data=data;
     }
 };
-template <typename T>
 template <typename T>
 class BinarySearchTree
 {
