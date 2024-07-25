@@ -16,7 +16,7 @@ class Stack
     int push(T data)
     {
         // cout<<"adding the data of size:"<<sizeof(T)<<endl;
-        if(top==len)
+        if(top==len-1)
         {
             cout<<"Stack is full!\n";
             return -1;
@@ -60,19 +60,24 @@ class Stack
 };
 int main()
 {
-    // Stack <int>list;
-    // list.push(100);
-    // list.print();
+    Stack <int>list;
+    list.push(100);
+    list.print();
 
-    // Stack <char>list1;
-    // list1.push('A');
-    // list1.print();
+    Stack <char>list1;
+    list1.push('A');
+    list1.push('B');
+    list1.push('C');
+    list1.print();
 
     Stack <string>list2;
     list2.pop();
     list2.push("C");
     list2.push("C++");
     list2.push("Java");
+    list2.push("Python");
+    list2.push("C#");
+    list2.push("Delphi");
     cout<<"Removed :"<<list2.pop()<<endl;
     cout<<" Top element :"<<list2.peek()<<endl;
     list2.print();
